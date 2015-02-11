@@ -5,4 +5,3 @@
 * Jose Labra
 * Sergio Rodríguez
 * Pedro Menéndez
-* Santiago Marqués
